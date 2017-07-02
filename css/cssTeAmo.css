@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+ /*Estilo del Index */
+ body{ u
+ }
+.titulo{
+	text-align:center;
+	color:#FFF;
+	size:40px;
+	font-family:"Comic Sans MS", cursive;
+	
+}
+.tio{
+	text-align:center;
+	color:#FFF;
+	size:50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.pap{
+	text-align:center;
+	color:#FFF;
+	size:50px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+.tipo{
+	color:#FFF;
+	size:50px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+.poni{
+	color:#FFF;
+	font-family:"Times New Roman", Times, serif;
+}
+.moni{
+	text-align:center;
+}
+.pop{
+	text-align:center;
+	color:#00F;
+	font-family:"chiller";
+	font-size:50px;
+	
+}
+.cac{
+	color:#FFF;
+	font-family:"Comic Sans MS", cursive;
+	font-size:36px;
+}
+.moo{
+	color:#FFF;
+	font-family:"chiller";
+	font-size:36px;
+}
+.texto{
+	font-family:"Comic Sans MS", cursive;
+	color:#C0C;
+	font-size:24px;
+}
+campo{
+	font-family:"Comic Sans MS", cursive;
+	color:#C0C;
+	font-size:24px;
+	
+}
+.chango{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#FFF;
+	font-size:36px;
+	
+}
+.moto{
+	font-family:"Comic Sans MS", cursive;
+	color:#909;
+	
+}
